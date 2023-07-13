@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **ReactJS, Next JS, Python**
 
-- 👨‍💻 All of my projects are available at [samy01.netlify.app](samy01.netlify.app)
+- 👨‍💻 All of my projects are available at [https://www.samy01.netlify.app](https://www.samy01.netlify.app)
 
-- 📝 I regularly write articles on [samywrites.hashnode.com](samywrites.hashnode.com)
+- 📝 I regularly write articles on [https://www.samywrites.hashnode.com](https://www.samywrites.hashnode.com)
 
 - 💬 Ask me about **HTML, CSS, React, Python**
 
 - 📫 How to reach me **urahsamuel0202@gmail.com**
 
-- 📄 Know about my experiences [samy01.netlify.app](samy01.netlify.app)
+- 📄 Know about my experiences [https://www.samy01.netlify.app](https://www.samy01.netlify.app)
 
 - ⚡ Fun fact **I love Music and Movies**
 
