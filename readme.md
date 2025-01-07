@@ -1,15 +1,15 @@
-![SamY-Logo - Copy](https://github.com/user-attachments/assets/9ee79e4d-6a24-4a8c-8a9d-7cb01fd28f33)
+
+![SamY-Logo - Copy (Small)](https://github.com/user-attachments/assets/e2c81bba-7545-47fc-b3b7-33fbe7afee37)
 
 <h1 align="center">Hi 👋, I'm Samuel Urah Yahaya (SamY)</h1>
+📄 Catch me here at [samy01.netlify.app](samy01.netlify.app)
 <h3 align="center">A passionate developer and an aspiring software engineer</h3>
 
 <p align="left"> 
-  <a href="https://twitter.com/samuel_urah_y" target="blank">
-    <img src="https://img.shields.io/twitter/follow/samuel_urah_y?logo=twitter&style=for-the-badge" alt="samuel_urah_y" />
+  <a href="https://twitter.com/I_am_SamY01" target="blank">
+    <img src="https://img.shields.io/twitter/follow/samuel_urah_y?logo=twitter&style=for-the-badge" alt="I_am_SamY01" />
   </a>
 </p>
-
-- 🌱 I’m currently learning **React, NextJS, Python**
 
 - 👨‍💻 All of my projects are available at [samy01.netlify.app](samy01.netlify.app)
 
@@ -18,11 +18,7 @@
   - [Medium](https://samywrites.medium.com/)
   - [Dev.to](https://dev.to/samy)
 
-- 💬 Ask me about **Python, React, Music, Tech in general 😅**
-
-- 📫 How to reach me: **urahsamuel0202@gmail.com**
-
-- 📄 Know about my experiences at [samy01.netlify.app](samy01.netlify.app)
+- 📫 How to reach me: **samuel.urah.yahaya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +28,7 @@
   <a href="https://dev.to/samy" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="samy" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/samuel_urah_y" target="blank">
+  <a href="https://twitter.com/I_am_SamY01" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samuel_urah_y" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/samuel urah yahaya" target="blank">
