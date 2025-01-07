@@ -1,13 +1,12 @@
-
 ![SamY-Logo - Copy (Small)](https://github.com/user-attachments/assets/e2c81bba-7545-47fc-b3b7-33fbe7afee37)
 
 <h1 align="center">Hi 👋, I'm Samuel Urah Yahaya (SamY)</h1>
-[Learn more about me!](samy01.netlify.app)
+[Learn more about me!](https://samy01.netlify.app)
 <h3 align="center">A passionate developer and an aspiring software engineer</h3>
 
 <p align="left"> 
   <a href="https://twitter.com/I_am_SamY01" target="blank">
-    <img src="https://img.shields.io/twitter/follow/samuel_urah_y?logo=twitter&style=for-the-badge" alt="I_am_SamY01" />
+    <img src="https://img.shields.io/twitter/follow/I_am_SamY01?logo=twitter&style=for-the-badge" alt="I_am_SamY01" />
   </a>
 </p>
 
