@@ -2,7 +2,7 @@
 ![SamY-Logo - Copy (Small)](https://github.com/user-attachments/assets/e2c81bba-7545-47fc-b3b7-33fbe7afee37)
 
 <h1 align="center">Hi 👋, I'm Samuel Urah Yahaya (SamY)</h1>
-📄 Catch me here at [samy01.netlify.app](samy01.netlify.app)
+[Learn more about me!](samy01.netlify.app)
 <h3 align="center">A passionate developer and an aspiring software engineer</h3>
 
 <p align="left"> 
