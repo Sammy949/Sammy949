@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Samuel Urah Yahaya</h1>
-<h3 align="center">A passionate frontend developer and aspiring software engineer</h3>
+![SamY-Logo - Copy](https://github.com/user-attachments/assets/9ee79e4d-6a24-4a8c-8a9d-7cb01fd28f33)
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sammy949&label=Profile%20views&color=0e75b6&style=flat" alt="sammy949" />
-</p>
+<h1 align="center">Hi 👋, I'm Samuel Urah Yahaya (SamY)</h1>
+<h3 align="center">A passionate developer and an aspiring software engineer</h3>
 
 <p align="left"> 
   <a href="https://twitter.com/samuel_urah_y" target="blank">
