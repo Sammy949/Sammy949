@@ -1,8 +1,8 @@
-![SamY-Logo - Copy (Small)](https://github.com/user-attachments/assets/e2c81bba-7545-47fc-b3b7-33fbe7afee37)
+![LinkedIn cover - 3](https://github.com/user-attachments/assets/c1b4c028-e3d7-4c8f-9364-4ccd3a6dc581)
 
-<h1 align="center">Hi 👋, I'm Samuel Urah Yahaya (SamY)</h1>
-[Learn more about me!](https://samy01.netlify.app)
-<h3 align="center">A passionate developer and an aspiring software engineer</h3>
+<h1>Hi 👋, I'm Samuel Urah Yahaya (SamY)</h1>
+<h3>A passionate developer and an aspiring software engineer</h3>
+Learn more about me! - https://samy01.netlify.app
 
 <p align="left"> 
   <a href="https://twitter.com/I_am_SamY01" target="blank">
