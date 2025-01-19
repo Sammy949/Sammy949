@@ -4,7 +4,7 @@
 <h3>A passionate developer and an aspiring software engineer</h3>
 Learn more about me! - https://samy01.netlify.app
 
-- 👨‍💻 All of my projects are available at [samy01.netlify.app](samy01.netlify.app)
+- 👨‍💻 All of my projects are available [here](samy01.netlify.app)
 
 - 📝 I regularly write articles on:
   - [Hashnode](https://samywrites.hashnode.dev/)
@@ -73,7 +73,7 @@ Learn more about me! - https://samy01.netlify.app
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
     
   </a>
