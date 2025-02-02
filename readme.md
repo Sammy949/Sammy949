@@ -18,6 +18,9 @@ Learn more about me! - https://samy01.netlify.app
 	 <a href="https://twitter.com/I_am_SamY01" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samuel_urah_y" height="30" width="40" />
   </a>
+	 <a href="https://instagram.com/I_am_SamY.01" target="blank">
+    <img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="samuel_urah_y" height="30" width="40" />
+  </a>
 	<a href="https://fb.com/samuel urah yahaya" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samuel urah yahaya" height="30" width="40" />
   </a>
