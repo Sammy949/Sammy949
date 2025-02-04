@@ -11,7 +11,7 @@ Learn more about me [here!](https://samy01.netlify.app)
   - [Medium](https://samywrites.medium.com/)
   - [Dev.to](https://dev.to/samy)
 
-- 📫 How to reach me: **urahsamuel0202@gmail.com** or **samuel.urah.yahaya@gmail.com**
+📫 How to reach me: **urahsamuel0202@gmail.com** or **samuel.urah.yahaya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
