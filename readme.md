@@ -4,7 +4,9 @@
 <h3>A passionate developer and an aspiring software engineer</h3>
 Learn more about me [here!](https://samy01.netlify.app)
 
-  - 📝 I regularly write articles on:
+---
+
+📝 I regularly write articles on:
   - [Hashnode](https://samywrites.hashnode.dev/)
   - [Medium](https://samywrites.medium.com/)
   - [Dev.to](https://dev.to/samy)
