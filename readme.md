@@ -1,4 +1,4 @@
-![LinkedIn cover - 3](https://github.com/user-attachments/assets/c1b4c028-e3d7-4c8f-9364-4ccd3a6dc581)
+<img width="1500" height="500" alt="SamY Header - V2 - 2025" src="https://github.com/user-attachments/assets/2eeb1efb-0bcc-4de2-a105-80055e3b89e2" />
 
 <h1>Hi 👋, I'm Samuel Urah Yahaya (SamY)</h1>
 <h3>A passionate developer and an aspiring software engineer</h3>
