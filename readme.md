@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm Samuel Urah Yahaya (SamY)</h1>
 <h3>A passionate developer and an aspiring software engineer</h3>
-<p>Learn more about me here! - https://samy01.netlify.app/</p>
+<p>Learn more about me here! - https://samuelyahaya.com/</p>
 
 ---
 
