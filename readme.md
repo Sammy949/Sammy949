@@ -11,7 +11,7 @@
   - [Medium](https://samywrites.medium.com/)
   - [Dev.to](https://dev.to/samy)
 
-📫 How to reach me: **urahsamuel0202@gmail.com** or **samuel.urah.yahaya@gmail.com**
+📫 How to reach me: **hello@samuelyahaya.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
